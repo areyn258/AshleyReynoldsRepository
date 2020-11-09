@@ -3,3 +3,6 @@
 # Government Debt 
 This chart shows the government debt as a percentage of GDP for various countries in 2018.
 <div class="flourish-embed flourish-chart" data-src="visualisation/4284980"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
+# Another Look at Government Debt
+This graphic shows another look at the data from OECD, depicting government spending in each country as a percentage of the GDP of that country.  
+<div class="flourish-embed flourish-chart" data-src="visualisation/4285138"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
