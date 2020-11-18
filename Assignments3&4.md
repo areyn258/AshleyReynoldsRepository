@@ -12,7 +12,7 @@ My original thoughts after looking at the data shown in this original visualizat
 
 After a quick sketch, this is what I came up with as sort of a rough draft to see if my ideas were making sense to a larger audience.  One of the key things I wanted to do was expand the amount of peoople that were able to understand the racial divide here.  
 
-![screenshot](IMG_2606.jpg)
+![image](IMG_2606.jpg)
 
 
 
