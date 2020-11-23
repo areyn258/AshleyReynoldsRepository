@@ -12,7 +12,10 @@ Here is my draft of my story arc:
 
 # Initial Sketches
 
-Insert description and sketches
+For these intial sketches, I sketched my four main concepts that I hope to address for the bulk of my project:  how many families don't have access to technology, where broadband access is and is not in the U.S., what the racial divide in access is, and what the socioeconomic divide is in access as well.  I think I'm going to go with a blue color scheme, so ignore the chart that other colors from my first ones.  They will all be in the same color scheme once the drafts continue.
+
+![image](https://github.com/areyn258/AshleyReynoldsRepository/blob/main/Sketches%201.jpg)
+![image](https://github.com/areyn258/AshleyReynoldsRepository/blob/main/Sketches%202.jpg)
 
 # The Data
 
