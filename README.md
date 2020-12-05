@@ -1,7 +1,9 @@
 # AshleyReynoldsRepository
+
 Work from my Telling Stories with Data course at Carnegie Mellon University
 
 # About me
+
 Here are a few things about me...
 
 - I am a proud alumni of City Year and Teach For America
@@ -9,6 +11,7 @@ Here are a few things about me...
 - I am passionate about education policy and local government issues
 
 # What I hope to learn
+
 I hope to learn...
 
 - How to visualize data in more interactive formats 
