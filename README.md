@@ -20,8 +20,8 @@ I hope to learn...
 ## In-Class Assignments
 
 Here are some of the visualizations I completed in class as part of learning exercises:
-- [Covid Cases](https://github.com/areyn258/AshleyReynoldsRepository/blob/main/page2.md)
-- [Generalizing Gov't Debt](https://github.com/areyn258/AshleyReynoldsRepository/blob/main/dataviz2.md)
+- [Covid Cases](https://areyn258.github.io/AshleyReynoldsRepository/page2.html)
+- [Generalizing Gov't Debt](https://areyn258.github.io/AshleyReynoldsRepository/dataviz2.html)
 
 ## Homework Assignments
 
