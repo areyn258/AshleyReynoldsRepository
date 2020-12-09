@@ -42,4 +42,6 @@ The final project of this course consisted of multiple parts that came together 
 
 For part two of the project, we focused on creating [wireframes](https://areyn258.github.io/AshleyReynoldsRepository/Sketches%202.jpg) and [sketches](https://areyn258.github.io/AshleyReynoldsRepository/Sketches%201.jpg) of our visualizations that we would like to include in our final presentation.  We also conducted an intentional round of user research, where we conducted interviews on the efficacy of our story and visuals thusfar.  Here is the finished [part two](https://areyn258.github.io/AshleyReynoldsRepository/Final_Project_Part2.html) of my assignment.
 
+### Part Three
 
+The final phase of this project is still being graded, but it will be added soon!
