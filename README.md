@@ -44,4 +44,4 @@ For part two of the project, we focused on creating [wireframes](https://areyn25
 
 ### Part Three
 
-The final phase of this project is still being graded, but it will be added soon!
+For the final phase of this project, I collected my bibliography, reflected on the changes I made since the beginning of the project due to user research, and linked my fina project website for public access.  Here is the finished [part three](https://github.com/areyn258/AshleyReynoldsRepository/blob/main/final_project_part3.html)
